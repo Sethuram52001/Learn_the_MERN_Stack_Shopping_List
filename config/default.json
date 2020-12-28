@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Sethuram:setiitm@cluster0.yvodg.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
